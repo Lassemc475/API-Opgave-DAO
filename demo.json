@@ -1,0 +1,31 @@
+[{
+	"data": {
+		"parcelnumber": 12345
+	},
+	"status": [{
+		"0": [{
+			"time": "12-02-2020 kl. 12:02",
+			"incident": "Pakken er klar til levering"
+		}],
+		"1": [{
+			"time": "12-02-2020 kl. 03:35",
+			"incident": "Pakken er ankommet til et depot"
+		}],
+		"2": [{
+			"time": "11-02-2020 kl. 21:14",
+			"incident": "Pakken er gjort klar til afsendelse hos afsender"
+		}]
+	}],
+
+	"sender": [{
+		"name": "Peter Pan"
+	}],
+
+	"recipient": [{
+		"name": "L**** M******",
+		"address": "******** **",
+		"zipcode": "9000 Aalborg"
+	}]
+
+
+}]
